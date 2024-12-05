@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Project Libra - Backend API application",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/gusanchefullstack/libra-backend/issues"
   },
-  "homepage": "https://github.com/gusanchefullstack/libra-backend#readme"
+  "homepage": "https://github.com/gusanchefullstack/libra-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1"
+  }
 }
