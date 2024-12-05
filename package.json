@@ -1,0 +1,19 @@
+{
+  "name": "libra-backend",
+  "version": "1.0.0",
+  "description": "Project Libra - Backend API application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusanchefullstack/libra-backend.git"
+  },
+  "author": "gustavosanchezgalarza@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusanchefullstack/libra-backend/issues"
+  },
+  "homepage": "https://github.com/gusanchefullstack/libra-backend#readme"
+}
